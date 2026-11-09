@@ -13,7 +13,7 @@ Device development for the Motorola moto g34 5G and moto g45 5G — codename `fo
 
 <img alt="kernel" height="24" src="https://img.shields.io/badge/kernel-5.4-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">
 
-<img alt="repositories" height="24  " src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Ffogos-5-4&amp;query=public_repos&amp;label=repos&amp;style=flat-square&amp;logo=github&amp;logoColor=white&amp;color=E75480">
+<img alt="repositories" height="24" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Ffogos-5-4&amp;query=public_repos&amp;label=repos&amp;style=flat-square&amp;logo=github&amp;logoColor=white&amp;color=E75480">
 
 </div>
 
