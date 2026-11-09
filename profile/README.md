@@ -3,7 +3,7 @@
 # fogos-5.4
 
 <p align="center">
-  <img src="profile/banner.png">
+  <img src="banner.png">
 </p>
 
 
